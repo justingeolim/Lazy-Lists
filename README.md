@@ -19,3 +19,7 @@ val students = listOf(
     "Karen","Luis","Maya","Nate","Olivia",
     "Priya","Quinn","Ravi","Sara","Tom"
 )
+
+## Preview
+<img width="293" height="606" alt="Screenshot 2026-03-24 at 3 24 33 PM" src="https://github.com/user-attachments/assets/9c71f6d1-7b47-4c34-87ad-66ce5d7c3097" />
+
